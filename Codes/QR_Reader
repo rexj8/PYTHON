@@ -1,0 +1,6 @@
+from qrtools import QR 
+my_QR = QR(filename = ".png image address") 
+  
+my_QR.decode() 
+  
+print my_QR.data     #prints qr_img data
