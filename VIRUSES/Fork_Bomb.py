@@ -9,5 +9,3 @@ while(1):
   os.fork()
 
 
-
-
